@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # packingslip-svggest
 
 ## Project setup
@@ -30,4 +29,3 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 # packingslip-svggest
->>>>>>> 2334edbd305d227eb426ed123600828df2f9904c
